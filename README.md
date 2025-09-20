@@ -136,6 +136,10 @@ TICKER = "SAP.DE"      # Germany: SAP SE
 - **Max Drawdown**: 15-20%
 - **Charts**: Two professional PNG visualizations generated
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Disclaimer
 
 This is a demonstration project for educational and portfolio purposes only. Not intended for actual trading or investment advice.
