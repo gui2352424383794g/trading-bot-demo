@@ -1,6 +1,6 @@
 # Trading Bot Demo
 
-A Python-based trading bot demo with backtesting, showing how strategies can be automated and evaluated.
+A professional Python-based trading bot demonstration showcasing algorithmic trading capabilities, quantitative analysis, and backtesting with performance visualization for global markets.
 
 ## Overview
 
@@ -123,9 +123,9 @@ TICKER = "SAP.DE"      # Germany: SAP SE
 
 ### 🎨 Portfolio Descriptions
 
-**Short**: *"Python algorithmic trading bot with backtesting engine for global markets"*
+**Short**: *"Professional Python trading bot demonstration with algorithmic backtesting for global markets"*
 
-**Medium**: *"Professional trading bot featuring moving average crossover strategy, comprehensive backtesting, and performance analytics for global stock markets using Python 3.11+, pandas, and matplotlib."*
+**Medium**: *"Professional trading bot demonstration showcasing algorithmic trading capabilities, quantitative analysis, moving average crossover strategy, and comprehensive backtesting with performance visualization for global stock markets using Python 3.11+."*
 
 **Detailed**: *"Complete algorithmic trading system showcasing quantitative finance expertise through a universal backtesting engine. Features moving average crossover strategy, real-time data fetching via Yahoo Finance API (100+ global exchanges), transaction cost modeling, comprehensive performance analytics (Sharpe ratio, max drawdown, win rate), and professional visualization. Demonstrates Python 3.11+ development, financial data analysis, and production-quality code standards with global market adaptability."*
 
